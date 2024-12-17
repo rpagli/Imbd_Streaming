@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Imdb Streaming
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  A code to play stream movies directly on Imdb Website.
 // @author       rpagli
-// @updateURL    https://raw.githubusercontent.com/rpagli/Imbd_Streaming/main/index.user.js
-// @downloadURL  https://raw.githubusercontent.com/rpagli/Imbd_Streaming/main/index.user.js
+// @updateURL    https://github.com/rpagli/Imbd_Streaming/raw/refs/heads/main/index.user.js
+// @downloadURL  https://github.com/rpagli/Imbd_Streaming/raw/refs/heads/main/index.user.js
 // @match        *://www.imdb.com/*/title/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=imdb.com
 // @grant        none
